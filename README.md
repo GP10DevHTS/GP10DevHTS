@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/sdjholly" target="blank"><img src="https://img.shields.io/twitter/follow/sdjholly?logo=twitter&style=for-the-badge" alt="sdjholly" /></a> </p>
 
-- 🔭 I’m currently working on **DebateHub**
+- 🔭 I’m currently unemployed and in need of a gig
 
-- 🌱 I’m currently learning **Livewire**
+<!-- - 🌱 I’m currently learning **Livewire** -->
 
 - 👯 I’m looking to collaborate on **web development projects. Especially PHP (Laravel)**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **jordankatetegirwe@gmail.com**
 
-- 📄 Know about my experiences [my website](hollymavic.rf.gd)
+- 📄 Know about my experiences [my website](https://hollymavic.rf.gd)
 
 - ⚡ **Fun fact** Did you hear about serverless computing? It's like magic, but for backend developers! Imagine a world where you don't have to babysit servers anymore. It's called "serverless" because, well, the servers are there, but you don't have to send them birthday cards or worry about their feelings. It's like having a personal assistant for your code – you write it, and the cloud takes care of the rest. Just remember, it's not about being serverless; it's about having servers with commitment issues!
 
@@ -48,3 +48,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp10dev&show_icons=true&locale=en&layout=compact" alt="gp10dev" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp10devhts&show_icons=true&locale=en&layout=compact" alt="gp10devhts" />
 </p>
+<p>Feel free to go through my repos</p>
