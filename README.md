@@ -1,5 +1,6 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFf1YcFH_Fejw/profile-displaybackgroundimage-shrink_200_800/0/1680993316902?e=2147483647&v=beta&t=M_AsPk0PPKQZ-oP2BRC_K50prAMU4QiGGdBVZbwixg4)](https://hollytechsolnz.rf.gd)
+
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://hollytechsolnz.rf.gd)
 
 <h1 align="center">Hi 👋, I'm Ahairwe Jordan</h1>
 <h3 align="center">a passionate and self-motivated individual pursuing a Bachelor's Degree in Information Technology and Computing at Kyambogo University</h3>
@@ -25,8 +26,16 @@
 
 - ⚡ **Fun fact** Did you hear about serverless computing? It's like magic, but for backend developers! Imagine a world where you don't have to babysit servers anymore. It's called "serverless" because, well, the servers are there, but you don't have to send them birthday cards or worry about their feelings. It's like having a personal assistant for your code – you write it, and the cloud takes care of the rest. Just remember, it's not about being serverless; it's about having servers with commitment issues!
 
+<h3>My Rankings</h3>
+- **Primary Account (GP10DevHTS)**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gp10devhts" alt="gp10devhts" /></a> </p>
+
+- **Secondary Account (GP10Dev)**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gp10dev" alt="gp10dev" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://twitter.com/sdjholly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdjholly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gp10dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gp10dev" height="30" width="40" /></a>
 </p>
