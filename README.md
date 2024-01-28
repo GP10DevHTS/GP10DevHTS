@@ -27,6 +27,7 @@
 - ⚡ **Fun fact** Did you hear about serverless computing? It's like magic, but for backend developers! Imagine a world where you don't have to babysit servers anymore. It's called "serverless" because, well, the servers are there, but you don't have to send them birthday cards or worry about their feelings. It's like having a personal assistant for your code – you write it, and the cloud takes care of the rest. Just remember, it's not about being serverless; it's about having servers with commitment issues!
 
 <h3>My Rankings</h3>
+
 - **Primary Account (GP10DevHTS)**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gp10devhts" alt="gp10devhts" /></a> </p>
 
