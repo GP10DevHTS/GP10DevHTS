@@ -3,7 +3,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://hollytechsolnz.rf.gd)
 
 # <h1 align="center">Hi 👋, I'm Ahairwe Jordan (GP10DevHTS) 🚀</h1>
-<h3 align="center">a passionate and self-motivated individual pursuing a Bachelor's Degree in Information Technology and Computing at Kyambogo University</h3>
+<h3 align="center">A passionate and self-motivated graduate with a Bachelor's Degree in Information Technology and Computing from Kyambogo University</h3>
 
 <img align="right" alt="coding" width="400" src="https://fliplogics.com/wp-content/uploads/2022/07/custom-coding-php-applications.gif">
 
